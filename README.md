@@ -1,3 +1,4 @@
 # InterviewProjs
 
-This repo consist of the projects i was ask in the process of interview
+This repo consist of the testing projects i encountered in the process of interview.
+
